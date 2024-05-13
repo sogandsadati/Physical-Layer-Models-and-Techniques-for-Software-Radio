@@ -1,0 +1,4 @@
+AWGN Modeling: We generated and analyzed a noise signal in GNU Radio, utilizing FFT to shape the noise spectrum and model a communication channel with AWGN to understand its impact on signal integrity.
+Digital Modulation in Noisy Environments: We explored how different digital modulation schemes like PSK are affected by noise, adjusting parameters like amplitude and observing the changes in the output spectrum.
+Multipath Channel Modeling: The lab involved modeling a multipath channel using complex-coefficient FIR filters to simulate various path delays and their effects. We adjusted multipath parameters dynamically to see their impact on the signal, aiming to understand how real-world phenomena like echoes and reflections affect communication systems.
+Practical Applications: Exercises included manipulating filter parameters and observing their effects on signal quality, demonstrating practical skills in real-world signal processing tasks.
